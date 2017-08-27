@@ -1,7 +1,7 @@
 version: '2'
 services:
   miniflux:
-    image: miniflux/miniflux:latest
+    image: SimonDever/miniflux:latest
     ports:
      - "80:80"
     volumes:
