@@ -52,11 +52,8 @@ pre, code {
     border: 1px dotted #333;
     background-color: #222;
     max-width: 32%;
-    min-width: 350px;
-    width: 400px;
-    height: 400px;
-    margin: auto;
-    margin-top: 20px;
+    min-width: 320px;
+    margin: 20px auto 0;
 }
 
 .items h2 {
